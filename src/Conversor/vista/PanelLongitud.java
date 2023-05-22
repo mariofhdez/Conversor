@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import Conversor.OperacionController;
+import Conversor.controller.OperacionController;
 
 public class PanelLongitud extends JPanel implements ActionListener {
 
